@@ -1,2 +1,2 @@
 # killShopingSystem
-商品购物描述
+商品购物秒杀
